@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.bonick" name="bonick repository" version="1.0" provider-name="bonitillobarber">
+	<extension point="xbmc.addon.repository" name="bonick repository">
+		<info compressed="false">http://cuz.site11.com/Zips/addons.xml</info>
+		<checksum>http://cuz.site11.com/Zips/addons.xml.md5</checksum>
+		<datadir zip="true">http://cuz.site11.com/Zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>@Bonitillobarber</summary>
+		<description>How to create a Kodi Repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
